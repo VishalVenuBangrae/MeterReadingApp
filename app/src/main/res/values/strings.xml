@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Multiple Meter Reading App</string>
+    <string name="a_step_towards_digitalization">A step towards digitalization!</string>
+    <string name="smart_meter_reading_app">Smart Meter Reading App</string>
+    <string name="login">Login</string>
+    <string name="enter_your_account_name_here">Enter Account Name Here</string>
+    <string name="enter_phone_number_here">Enter Phone Number Here</string>
+    <string name="enter_meter_number_here">Enter Unique Meter ID</string>
+    <string name="don_t_have_account_sign_up_now">Not yet Registered? Sign Up Now!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="scan_and_pay_gas_bill">Scan and Pay Gas Bill</string>
+    <string name="scan_and_pay_water_bill">Scan and Pay Water Bill</string>
+    <string name="scan_and_pay_electricity_bill">Scan and Pay Electricity Bill</string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="multiple_meter_reading_app">Multiple Meter Reading App</string>
+    <string name="enter_valid_address_here">Enter Valid Address Here</string>
+    <string name="your_bill_has_been_successfully_paid">Your bill has been successfully Paid!!</string>
+    <string name="ok">ok</string>
+    <string name="due_amount_to_be_paid_rs_1010">Due Amount To be Paid = Rs. 1010</string>
+</resources>
